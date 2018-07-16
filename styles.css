@@ -1,0 +1,30 @@
+h1{
+  font-size: 50px;
+  color: TURQUOISE;
+}
+
+body {
+  background-color: gold;
+  background-image: ("back.png")
+}
+
+
+img {
+  width: 40%;
+
+}
+h2{
+  color: coral;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
